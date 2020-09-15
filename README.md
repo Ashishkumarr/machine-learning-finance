@@ -1,5 +1,6 @@
 # Machine-learning-finance
   1.	Dataset:
+  
     i.	FB
     
     ii.	FANG
@@ -7,6 +8,7 @@
     iii.	Farm-French and ADS
 
   2.	Models built:
+  
     i.	Farmer French, AR1
     
     ii.	Exponential Moving Average (5 days) + Linear Regression
